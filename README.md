@@ -15,4 +15,4 @@ Marcelo Nicolas Lopez
 Ho Joong Kim
 Lautaro Spotti
 Nelson Mariano Espada
-Joaquin Samuel Fonfini Rico
+Joaquin Samuel Fondini Rico
