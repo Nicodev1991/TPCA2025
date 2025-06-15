@@ -1,13 +1,14 @@
 # TPCA2025
 Trabajo Practico integrador
 
-MATERIA: Computacion Aplicada
+MATERIA:  
+Computacion Aplicada
 
-PROFESORES:
+PROFESORES:  
 Martin Barrios  
 Matias Chiesa
 
-TUTOR:
+TUTOR:  
 Stefania Deluca
 
 INTEGRANTES:  
